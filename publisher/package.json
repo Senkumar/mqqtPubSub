@@ -1,0 +1,19 @@
+{
+	"name": "publisher",
+	"version": "1.0.0",
+	"description": "Simple MQQT client which publishes data",
+	"main": "client_publisher.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"MQQT",
+		"Client",
+		"publisher"
+	],
+	"author": "SenKumar",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"mqtt": "^2.17.0"
+	}
+}
